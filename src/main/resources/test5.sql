@@ -1,0 +1,1 @@
+#INSERT INTO animal(anim_name, anim_desc) VALUES('name', 'desc');
